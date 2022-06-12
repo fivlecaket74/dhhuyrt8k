@@ -1,5 +1,5 @@
 services:
-  dhhuyrt8k:
+  kghfyxxxuy:
     build: .
     shm_size: 2.6gb
     ports:
